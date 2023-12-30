@@ -2949,7 +2949,7 @@
     "message": "Do you really want to reset all settings?\nATTENTION: All settings are lost! You have to setup the whole aircraft after this operation!"
   },
   "mappingTableOutput": {
-    "message": "Output"
+    "message": "Wyjście"
   },
   "mappingTableFunction": {
     "message": "Function"
