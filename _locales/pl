@@ -2907,7 +2907,7 @@
     "message": "Load and apply"
   },
   "mixerApplyModalTitle": {
-    "message": "Confirm"
+    "message": "Ustawienia"
   },
   "mixerButtonSaveAndReboot": {
     "message": "Zapisz i uruchom ponownie"
@@ -2973,7 +2973,7 @@
     "message": "Ground speed"
   },
   "HOME_DISTANCE": {
-    "message": "Distance to home"
+    "message": "Dystans do domu"
   },
   "brakingSpeedThreshold": {
     "message": "Min. speed threshold [cm/s]"
